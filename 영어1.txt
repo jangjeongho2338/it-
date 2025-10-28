@@ -1,0 +1,174 @@
+--------------------------------------------------------------------------------------------------------------------------
+
+hardware - 하드웨어 - 컴퓨터의 물리적인 장치 CPU 메모리 모니터
+device
+
+software - 소프트웨어 - 프로그램과 같이 컴퓨터가 수행 가능한 명령어 모음
+organized - 조직된
+instruction - 명령어
+contrlling - 제어
+program - 프로그램
+device - 장치
+document - 문서
+
+
+data
+row facts - 가공되지 않은 사실
+manipulate - 조작
+process - 처리
+information - 정보
+computerized date - 전산화 데이터
+digital - 디지털
+reduced - 변환되다
+number - 숫자
+
+User
+operator - 조작자
+operate - 조작
+intervention - 개입
+personal computer - 개인용 컴퓨터
+designed - 디자인되다
+세번째 머시기 = 유비쿼터스
+1944년 = MARK I
+후에 > ENIAC > UNIVAC
+
+monitor = display system(디스플레이 시스템), output device(출력 장치)
+monitor(모니터) >cable(케이블) > video adapter(비디오 카드) > motherborad(메인 보드), expansion slot(확장 슬롯)
+connector(커넥터), port(포트) > perpheral(외부 장치), communication(통신)
+
+------------------------------------------------------------------------------------------------------------
+
+Operating System(운영체제)
+operation - (작업)
+resource - (자원)
+security - (보안)
+execution - (실행)
+authorized user - (인가된 사용자)
+unauthorized user - (비인가 사용자)
+UNIX, Linux, Windows
+
+첫번째 운영체제 1983년 > Windows > vaporware(공개됬지만 존재 X)
+
+1985년 Windows 1.0 > MS-DOS, point and click, unique software (독창적 소프트웨어)
+
+Network Operating System - (네트워크 운영체제)
+LAN 근거리 통신망
+Operating System에 enhance (확장)한 software이다
+
+UNIX > multi-user(다중 사용자)와 multitasking(다중 작업)을 지원하는 operating system(운영 체제)이다
+flexble(유연한)
+source language form (소스코드형태)
+modify - (수정), customize - (사용)
+
+Linux > hardware platform - (하트웨어 플랫폼), freely distributeble - (자유 배포), open source - (오픈 소스)
+free,pc와 Macintosh - (매킨토시) 사용가능
+proprietary operating systems - (상용 운영체제)
+
+windows > personal computer - (개인용 컴퓨터)를 위한 계열(family)
+GUI(그래픽, 사용자 인터페이스), virtual memory management - (가상 메모리 관리)
+, multitasking - (다중 작업), peripheral device - (주변기기 지원)
+
+Android > Linux기반 mobile platform
+Apache v2 open source license - (아파치 v2 오픈소스 라이선스)
+기능 : GUI, web browser, end user application - (응용 프로그램)
+GSM/HSDPA, CDMA/EV-DO
+
+ios > apple mobile operating system
+multi-touck interface - (멀티터치 인터페이스), swiping - (스와이프), pinching - (오므리는 동작), gesture - (제스처)
+ipod touch (아이팟 터치) > nominal fee - (소액의 요금)
+Integrated search support - (통합 검색 기능)
+Gesture recognition - (제스처 인식 기능)
+direction service - (길찾기 서비스)
+push email - (푸시 이메일)	
+Safari mobile browse - (사파리 모바일 브라우저)
+Integrated camera and video - (통합 카메라 및 비디오)
+Integrated media player - (통합 미디어 프레이어)
+Apple Store에 Direct accass - (애플 콘텐츠에 직접 접근)
+iCloud와 Compatibility - (애플 클라우드와 호환성)
+
+steve jobs > inverntor - (발명가), marketer - (마케터), entrepreneur - (기업가)
+personal computer revolution - (개인 컴퓨터 혁명)
+LaserWriter - (레이저라이터)
+vector graphics - (백터 그래픽)
+desktop publishing - (데스크톱 출판)
+
+opertating system - (운영체제)
+boot program, API, GUI, multitasking operating system, internal memory - (내부 메모리)
+hard disk, printer, dial-up port - (전화 접속 포트), hardware device - (외부 하드웨어 장치), handle - (처리)한다
+
+------------------------------------------------------------------------------------------------------------
+
+programming language = vocabulary(어휘)와 grammatical rules(문법 규칙)의 집합
+high-level language라고도 함
+keywords set(키워드 집합)와 syntax(특별한 문법 구조)를 가짐
+machine language보단 단순
+
+machine language와 high-level language사이에 assembly language가 있음
+number대신 name
+high-level language보다 높은 언어는 4GL(fourth-generation language)이 있다
+
+기계어(machine language)로 convert(바꿈)방식 > compile, interpret 2가지 방식있음
+FORTRAN
+
+Pascal(파스칼 언어) > well-structured and readable(구조가 잘짜이고 읽기 쉬움)
+C++ > object-oriented(강력한 객체 지향), complex(복잡), difficult to learn(배우기 어려움)
+
+C > 1970년대 중반, Bell Labs의 데니스 리치(Dennis Ritchie) 개발, high-level language, 
+원래 system programming language,
+powerful, flexble (강력, 유연) less memory(적은 메모리), personal computer programmer사이 인기 많음
+원래는 UNIX operating system 하지만 이젠 독립적
+high-level language이지만 assembly language에 가까움
+
+C++ > Bell Labs의 비야네 스트롭스트룹(Bjarne Stroustrup)이 개발, high-level language
+C에 object-oriented기능 추가, graphical appilcations(그래픽 응용 프로그램)
+
+Java > sun Microsystem에서 개발, high-level language
+1995 sun > java로 이름 바꿈
+World Wide Web이점 활용하도록 언어 modified함
+object-oriented(객체 지향) language, simplified(단순화된)언어임
+byte code로 compiled .class로 저장 JIT컴파일러로 직접 기계어로 변경 가능
+java interpreter에 의해 실행
+runtime environment(실행 환경)인 JVM이 대부분 운영체재에 존재
+
+C# > C and C++의 hybrid(혼합형), Microsoft에서 개발
+.NET platform에서 XML-based web service(XML기반 웹 서비스)와 사용되는 object-oriented(객체 지향) 언어 productivity(생산성) 향상 설계
+type-safety, garbage collection, simplified type declarations, versioning, scalability support등 기능 갖춤
+
+OOP(object-oriented programming) 객체 지향 프로그래밍 > action이나 logic가 아닌 object와 data를 중심으로 구성
+inheritance(상속), thorough data analysis(철저한 데이터 분석), development time(개발시간)단축, accurate coding(정확한 코드 사용)
+data hiding(데이터 은닉) > system security 강화
+Class > 처음 만드는 프로그램, other object-oriented program(객체 지향 프로그램)에서도 reusable(재사용)될 수 있다
+date class > new data type not defined in the language(정의되지 않은 언어) 새로운 데이터 유형을 만들게 해줌
+Simula > first object-oriented programming language(첫 객체 지향 언어)
+JAVA > distributed applications(분산 응용 프로그램) 개발을 위한 언어
+
+Visual Basic > microsoft가 개발한 언어이자 개발 환경(environment)
+basic언어 기반, user interface를 개발하기 위한 graphical programming environment(그래픽 프로그래밍 환경)을 처음 제공
+
+------------------------------------------------------------------------------------------------------------
+
+computer network = data communication system(데이터 통신 시스템)
+physically(물리적으로) 
+types : LAN(Local Area Network) 근거리 통신망 : computer geographically close(가까이 있음)
+WAN(Wide Area Network) 광역 통신망 : Telephone lines(전화선) or Radio waves(무선 전파) 사용
+CAN(compus Area Network)캠퍼스 영역 네트워크 : campus or military base(캠퍼스나 군사기지)
+MAN(Metropolitan Area Network)광역 도시 네트워크 : town or city
+HAN(Home Area Network) user's home connect person's device
+
+Topology : geometric arrangement(기하학적 배치 방식)
+Protocol : rule and signal communication(통신의 규칙과 신호 체계)
+Architecture(아기텍처) network는 2가지로 나눔 peer-to-peer(피어투피어) and client/server(클라이언트/서버)
+nodes(노드) : network computer
+server(서버) : allocate resource(자원을 할당)
+
+LAN의 Topology는 4개
+Bus topology : Bus or backbone이라 불리는 central cable에 connect연결됨 easy install, ethernet(이더넷)이 씀
+Ring topology : all device가 closed loop(닫힌 고리) 형태이며 connect연결됨 hard install but large distance(넓은 확장)가능
+star topology : add device가 central hub에 connect연결됨 약간 easy install, bottlenecks(병목현상)발생 가능
+Tree topology : bus and star 혼합
+kevin mitmick(케빈 미트닉) 1963년생 cracker(해커) hack into(해킹하다)
+security expert(보안 전문가)
+
+data commuication(데이터 통신) : transmit(전송) protocol(프로토콜)
+
+------------------------------------------------------------------------------------------------------------
